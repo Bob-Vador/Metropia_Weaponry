@@ -1,0 +1,49 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Rapiere",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rapiere"
+    },
+    {
+      "name": "Dague",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dague"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.dague.name": "Dague",
+      "item.rapiere.name": "Rapière"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "metropia_weaponry",
+    "modName": "Metropia_weaponry",
+    "version": "1.0.0",
+    "author": "stela, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.metropiaweaponry",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
